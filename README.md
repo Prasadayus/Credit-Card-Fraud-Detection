@@ -25,7 +25,7 @@ You can collect dataset from https://www.kaggle.com/datasets/mlg-ulb/creditcardf
 ## Project Workflow
 
 
-1. ** Data Inspection: ** A preliminary look at the structure, numbering, and basic statistics of the dataset.
+1. **Data Inspection:** A preliminary look at the structure, numbering, and basic statistics of the dataset.
 
 2. ** Managing Duplicate Values: ** Locating and eliminating duplicate data points from the collection.
 
