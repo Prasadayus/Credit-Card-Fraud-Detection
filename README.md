@@ -8,7 +8,7 @@ To run this project, you need to install the required dependencies. Use the foll
 
 ```bash
 pip install -r requirements.txt
-
+```
 ## Context
 
 The difficulty for credit card firms is identifying fraudulent transactions so that consumers are not charged for purchases they did not make. Ensuring the security of user accounts and preserving the integrity of financial transactions depend heavily on fraud detection.
