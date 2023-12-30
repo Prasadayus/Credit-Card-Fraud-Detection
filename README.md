@@ -27,21 +27,21 @@ You can collect dataset from https://www.kaggle.com/datasets/mlg-ulb/creditcardf
 
 1. **Data Inspection:** A preliminary look at the structure, numbering, and basic statistics of the dataset.
 
-2. ** Managing Duplicate Values: ** Locating and eliminating duplicate data points from the collection.
+2. **Managing Duplicate Values:** Locating and eliminating duplicate data points from the collection.
 
-3. ** Managing Null Values: ** Examining the dataset for any missing values and taking appropriate action.
+3. **Managing Null Values:** Examining the dataset for any missing values and taking appropriate action.
 
-4. ** Feature engineering : ** Feature involving involves investigating the connections between features, concentrating on 'Amount' and 'Time'.
+4. **Feature engineering:** Feature involving involves investigating the connections between features, concentrating on 'Amount' and 'Time'.
 
-5. ** Exploratory Data Analysis (EDA): ** Investigating patterns in time versus quantity, assessing transaction amounts, and visualizing the distribution of legitimate and fraudulent transactions.
+5. **Exploratory Data Analysis (EDA):** Investigating patterns in time versus quantity, assessing transaction amounts, and visualizing the distribution of legitimate and fraudulent transactions.
 
-6. ** Multicollinearity Analysis: ** Examining how independent variables are correlated.
+6. **Multicollinearity Analysis:** Examining how independent variables are correlated.
 
-7. ** Implementing Machine Learning Models: ** To train and assess machine learning models such as XGBoost, Local Outlier Factor (LOF), Quadratic Discriminant Analysis (QDA), and Isolation Forest, use the PyCaret package.
+7. **Implementing Machine Learning Models:** To train and assess machine learning models such as XGBoost, Local Outlier Factor (LOF), Quadratic Discriminant Analysis (QDA), and Isolation Forest, use the PyCaret package.
 
-8. ** Evaluation Metrics: ** Prioritizing recall due to the imbalanced nature of the dataset and discussing the trade-offs between false positives and false negatives.
+8. **Evaluation Metrics:** Prioritizing recall due to the imbalanced nature of the dataset and discussing the trade-offs between false positives and false negatives.
 
-9. ** Final Evaluation on Test Dataset: ** Assessing the model's performance on a separate test dataset.
+9. **Final Evaluation on Test Dataset:** Assessing the model's performance on a separate test dataset.
 
 
 ## Results
